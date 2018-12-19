@@ -1,0 +1,21 @@
+{
+    "name": "toodark",
+    "displayName": "TooDark.color-theme.json",
+    "description": "A simple, dark and minimal color theme for code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TooDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TooDark-color-theme.json"
+            }
+        ]
+    }
+}
