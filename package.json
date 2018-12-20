@@ -3,8 +3,16 @@
     "displayName": "TooDark.color-theme.json",
     "description": "A simple, dark and minimal color theme for code",
     "version": "0.0.1",
+    "publisher": "blankrsd",
     "engines": {
         "vscode": "^1.30.0"
+    },
+    "bugs": {
+        "url": "https://github.com/blankRSD/TooDark/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blankRSD/TooDark"
     },
     "categories": [
         "Themes"
@@ -14,7 +22,7 @@
             {
                 "label": "TooDark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/TooDark-color-theme.json"
+                "path": "./themes/TooDark.color-theme.json"
             }
         ]
     }
