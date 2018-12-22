@@ -2,7 +2,7 @@
     "name": "toodark",
     "displayName": "TooDark",
     "description": "A simple, dark and minimal color theme for code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "blankrsd",
     "engines": {
         "vscode": "^1.30.0"
@@ -37,5 +37,4 @@
         "dark",
         "theme"
     ]
-
 }
