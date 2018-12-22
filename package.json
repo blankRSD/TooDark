@@ -1,6 +1,6 @@
 {
     "name": "toodark",
-    "displayName": "TooDark.color-theme.json",
+    "displayName": "TooDark",
     "description": "A simple, dark and minimal color theme for code",
     "version": "0.0.1",
     "publisher": "blankrsd",
@@ -25,5 +25,17 @@
                 "path": "./themes/TooDark.color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#0D0D0D",
+        "theme": "dark"
+    },
+    "keywords": [
+        "too dark",
+        "toodark",
+        "dark",
+        "theme"
+    ]
+
 }
